@@ -1,0 +1,37 @@
+body,html{
+    height: 100%;
+    font-family: Fuzzy Bubbles;
+}
+div{
+    background-image: url("images/philip-myrtorp-csyQQeISmdA-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    color: white;
+    font-size: 75px;
+}
+.img2{
+    size: 80px;
+}
+.name{
+    color: white;
+    font-size: 35px;
+    width: 99%;
+    
+}
+.reset{
+    color: white;
+    background-color: black;
+}
+.name1{
+    color: rgb(57, 115, 241);
+    font-size: 35px;
+    width: 99%;
+}
+.pic{
+    color: white;
+}
